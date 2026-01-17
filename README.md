@@ -8,4 +8,4 @@ Hola, soy Isaac👋
 
 Lenguajes y herramientas:
 
-bootstrap css3 figma git html5 javascript react sass
+JavaScript, C#, Vue.js, Json.
